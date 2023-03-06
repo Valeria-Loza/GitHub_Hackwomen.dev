@@ -4,6 +4,6 @@ Working w_GitHub :smile:
 + drawing
 + coding
 + working out
-+ listen to music
-+ read
-+ plasma
++ listening to music
++ reading
++ math
